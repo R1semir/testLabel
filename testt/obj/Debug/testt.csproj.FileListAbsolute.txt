@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\testt\testt\bin\Debug\testt.exe.config
+C:\Users\legen\source\repos\testt\testt\bin\Debug\testt.exe
+C:\Users\legen\source\repos\testt\testt\bin\Debug\testt.pdb
+C:\Users\legen\source\repos\testt\testt\obj\Debug\testt.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\testt\testt\obj\Debug\testt.Form1.resources
+C:\Users\legen\source\repos\testt\testt\obj\Debug\testt.Properties.Resources.resources
+C:\Users\legen\source\repos\testt\testt\obj\Debug\testt.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\testt\testt\obj\Debug\testt.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\testt\testt\obj\Debug\testt.exe
+C:\Users\legen\source\repos\testt\testt\obj\Debug\testt.pdb
